@@ -1,0 +1,16 @@
+{
+  "name": "did",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./src/test.js"
+  },
+  "author": "SGK Team",
+  "license": "ISC",
+  "dependencies": {
+    "@tonclient/appkit": "^0.3.0",
+    "@tonclient/core": "^1.30.0",
+    "@tonclient/lib-node": "^1.30.0"
+  }
+}
